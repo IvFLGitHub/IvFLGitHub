@@ -48,7 +48,9 @@ Estas son **tecnologías presentes en proyectos, prototipos o procesos de aprend
 
 ### Portfolio
 
-Estoy preparando un **portfolio web público** con casos de estudio, capturas y una visión más completa de los proyectos. Añadiré el enlace cuando esté publicado y verificado.
+🌐 **[Visitar mi portfolio profesional](https://ivan-franco.ivfl.chatgpt.site/)**
+
+Casos de estudio, proyectos de ingeniería y software, tecnologías utilizadas y evolución de mis herramientas digitales. La disponibilidad pública de la web se configura desde ChatGPT Sites.
 
 ---
 
